@@ -1,8 +1,8 @@
 {
-  "image": "pschmitt/hassio-addon-amd64-pilight",
+  "image": "pschmitt/hassio-addon-aarch64-pilight",
   "arch": ["aarch64", "amd64", "i386", "armhf"],
   "name": "pilight",
-  "version": "1.3.1",
+  "version": "1.0",
   "slug": "pilight",
   "description": "Pilight server",
   "startup": "services",
